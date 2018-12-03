@@ -15,7 +15,7 @@ public class server{
 
 	public static void main(String[] args) throws IOException{
 		
-		FileReader file= new FileReader("C:\\Users\\kinga5\\Documents\\Java\\Network Programming\\src\\dictionary.txt");
+		FileReader file= new FileReader("C:\\Users\\kinga5\\Documents\\Java\\HangMan\\src\\dictionary.txt");
 		
 		Scanner input = new Scanner(file);
 		
